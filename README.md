@@ -20,6 +20,6 @@
 	(1)复制解压的上面两个文件夹
 	(2)移动至site-package，如提示替换，点击全部替换
 
-##结果图片
+## 结果图片
 
-![image](https://github.com/wxhou/pytest-html-cn/tree/master/images)
+ ![image](images/demo.png)
