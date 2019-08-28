@@ -22,4 +22,4 @@
 
 ##结果图片
 
-![image](https://github.com/wxhou/pytest-html-cn/tree/master/images)
+![image](https://github.com/wxhou/pytest-html-cn/tree/master/images/demo.png)
