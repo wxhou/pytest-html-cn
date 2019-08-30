@@ -429,7 +429,7 @@ class HTMLReport(object):
 
         main_js = pkg_resources.resource_string(
             __name__, os.path.join('resources', 'main.js'))
-            # print(main_js)
+        # print(main_js)
         if PY3:
             main_js = main_js.decode('utf-8')
 
