@@ -38,7 +38,6 @@ def pytest_html_results_table_row(report, cells):
 	cells.insert(2, html.td(report.nodeid))
 	cells.pop(2)
 ```
-![image](images/conftest.png)
 
 # 结果图片
 ---
